@@ -1,0 +1,29 @@
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.main {
+    width: 30%;
+    border: 10px solid silver;
+    margin: auto;
+    padding: 30px;
+    border-radius: 7px;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+.row {
+    display: flex;
+    align-items: center;
+}
+
+.row h4 {
+    margin-right: auto;
+    font-size: 22px;
+    text-transform: uppercase;
+}
